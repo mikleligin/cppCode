@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_offboard_cpp.dir/takeoff_and_land.cpp.o CMakeFiles/test_offboard_cpp.dir/offClass.cpp.o -o test_offboard_cpp  /usr/lib/libmavsdk.so.1.4.6 

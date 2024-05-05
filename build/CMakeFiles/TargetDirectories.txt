@@ -1,0 +1,3 @@
+/home/mikleligin/Desktop/copter/cpp/build/CMakeFiles/main.dir
+/home/mikleligin/Desktop/copter/cpp/build/CMakeFiles/edit_cache.dir
+/home/mikleligin/Desktop/copter/cpp/build/CMakeFiles/rebuild_cache.dir
