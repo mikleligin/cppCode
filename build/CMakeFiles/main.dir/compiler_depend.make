@@ -263,7 +263,8 @@ CMakeFiles/main.dir/main.cpp.o: /home/mikleligin/Desktop/copter/cpp/main.cpp \
   /usr/include/c++/9/thread \
   /usr/include/c++/9/condition_variable \
   /usr/include/c++/9/atomic \
-  /usr/include/c++/9/bits/atomic_futex.h
+  /usr/include/c++/9/bits/atomic_futex.h \
+  /usr/include/mavsdk/plugins/offboard/offboard.h
 
 CMakeFiles/main.dir/offClass.cpp.o: /home/mikleligin/Desktop/copter/cpp/offClass.cpp \
   /usr/include/stdc-predef.h \
@@ -527,8 +528,11 @@ CMakeFiles/main.dir/offClass.cpp.o: /home/mikleligin/Desktop/copter/cpp/offClass
   /usr/include/c++/9/thread \
   /usr/include/c++/9/condition_variable \
   /usr/include/c++/9/atomic \
-  /usr/include/c++/9/bits/atomic_futex.h
+  /usr/include/c++/9/bits/atomic_futex.h \
+  /usr/include/mavsdk/plugins/offboard/offboard.h
 
+
+/usr/include/mavsdk/plugins/offboard/offboard.h:
 
 /usr/include/c++/9/bits/atomic_futex.h:
 

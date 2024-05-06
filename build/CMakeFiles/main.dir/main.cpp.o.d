@@ -204,4 +204,5 @@ CMakeFiles/main.dir/main.cpp.o: \
  /usr/include/c++/9/mutex /usr/include/c++/9/bits/std_mutex.h \
  /usr/include/c++/9/bits/unique_lock.h /usr/include/c++/9/thread \
  /usr/include/c++/9/condition_variable /usr/include/c++/9/atomic \
- /usr/include/c++/9/bits/atomic_futex.h
+ /usr/include/c++/9/bits/atomic_futex.h \
+ /usr/include/mavsdk/plugins/offboard/offboard.h

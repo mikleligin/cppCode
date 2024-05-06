@@ -265,6 +265,7 @@ CMakeFiles/main.dir/main.cpp.o
  /usr/include/c++/9/condition_variable
  /usr/include/c++/9/atomic
  /usr/include/c++/9/bits/atomic_futex.h
+ /usr/include/mavsdk/plugins/offboard/offboard.h
 
 CMakeFiles/main.dir/offClass.cpp.o
  /home/mikleligin/Desktop/copter/cpp/offClass.cpp
@@ -530,4 +531,5 @@ CMakeFiles/main.dir/offClass.cpp.o
  /usr/include/c++/9/condition_variable
  /usr/include/c++/9/atomic
  /usr/include/c++/9/bits/atomic_futex.h
+ /usr/include/mavsdk/plugins/offboard/offboard.h
 
